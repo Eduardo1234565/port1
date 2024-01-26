@@ -1,0 +1,9 @@
+
+li:hover {
+    background-color: #ff00007c; /*criar cor de destaque em um texto*/
+    cursor: cell; /* muda o simbolo do cursor*/
+}
+ul:active {
+    color: #ff00007c;
+    cursor:progress
+}
